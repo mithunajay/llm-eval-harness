@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "task": "openers",
+    "dataset": "openers",
+    "dataset_version": "1.0.0",
+    "dataset_sha256": "0f7473090c8fb34c26fb7979b398cb3e3b57d18bb10aa204b8b6195def078724",
+    "prompt_fingerprint": "fe6da25b",
+    "provider": "mock:good"
+  },
+  "summary": {
+    "cases": 10,
+    "passed": 10,
+    "pass_rate": 1.0,
+    "judge_mean": 5.0,
+    "judge_invalid": 0,
+    "errors": 0,
+    "avg_latency_ms": 0.11,
+    "tokens_in": 1010,
+    "tokens_out": 220,
+    "est_cost_usd": 0.00633,
+    "failures_by_check": {},
+    "check_pass_rates": {
+      "non_empty": 1.0,
+      "word_limit": 1.0,
+      "banned_phrases": 1.0,
+      "numbers_grounded": 1.0,
+      "must_mention": 1.0
+    }
+  },
+  "cases": {
+    "c01": {
+      "passed": true,
+      "judge_score": 5
+    },
+    "c02": {
+      "passed": true,
+      "judge_score": 5
+    },
+    "c03": {
+      "passed": true,
+      "judge_score": 5
+    },
+    "c04": {
+      "passed": true,
+      "judge_score": 5
+    },
+    "c05": {
+      "passed": true,
+      "judge_score": 5
+    },
+    "c06": {
+      "passed": true,
+      "judge_score": 5
+    },
+    "c07": {
+      "passed": true,
+      "judge_score": 5
+    },
+    "c08": {
+      "passed": true,
+      "judge_score": 5
+    },
+    "c09": {
+      "passed": true,
+      "judge_score": 5
+    },
+    "c10": {
+      "passed": true,
+      "judge_score": 5
+    }
+  }
+}

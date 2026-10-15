@@ -1,0 +1,182 @@
+{
+ "FIXTURE-001": {
+  "QUESTION": "Does the intervention lower systolic blood pressure?",
+  "CONTEXTS": [
+   "Participants receiving the intervention showed a significantly lower systolic blood pressure than controls after twelve weeks (p=0.01).",
+   "Participants were enrolled across several centres and followed according to the protocol."
+  ],
+  "LABELS": [
+   "RESULTS",
+   "METHODS"
+  ],
+  "MESHES": [],
+  "YEAR": "2000",
+  "final_decision": "yes",
+  "LONG_ANSWER": "fixture"
+ },
+ "FIXTURE-002": {
+  "QUESTION": "Is regular screening associated with earlier detection?",
+  "CONTEXTS": [
+   "Screening participants were diagnosed at an earlier stage compared with unscreened participants in this cohort.",
+   "Participants were enrolled across several centres and followed according to the protocol."
+  ],
+  "LABELS": [
+   "RESULTS",
+   "METHODS"
+  ],
+  "MESHES": [],
+  "YEAR": "2000",
+  "final_decision": "yes",
+  "LONG_ANSWER": "fixture"
+ },
+ "FIXTURE-003": {
+  "QUESTION": "Does supplementation improve sleep duration?",
+  "CONTEXTS": [
+   "Sleep duration increased significantly in the supplementation group relative to placebo across the observation period.",
+   "Participants were enrolled across several centres and followed according to the protocol."
+  ],
+  "LABELS": [
+   "RESULTS",
+   "METHODS"
+  ],
+  "MESHES": [],
+  "YEAR": "2000",
+  "final_decision": "yes",
+  "LONG_ANSWER": "fixture"
+ },
+ "FIXTURE-004": {
+  "QUESTION": "Is higher fibre intake linked to lower cholesterol?",
+  "CONTEXTS": [
+   "Higher fibre intake was associated with significantly lower total cholesterol after adjustment for age and weight.",
+   "Participants were enrolled across several centres and followed according to the protocol."
+  ],
+  "LABELS": [
+   "RESULTS",
+   "METHODS"
+  ],
+  "MESHES": [],
+  "YEAR": "2000",
+  "final_decision": "yes",
+  "LONG_ANSWER": "fixture"
+ },
+ "FIXTURE-005": {
+  "QUESTION": "Does the programme reduce hospital readmission?",
+  "CONTEXTS": [
+   "Readmission within thirty days was significantly reduced among patients enrolled in the follow-up programme.",
+   "Participants were enrolled across several centres and followed according to the protocol."
+  ],
+  "LABELS": [
+   "RESULTS",
+   "METHODS"
+  ],
+  "MESHES": [],
+  "YEAR": "2000",
+  "final_decision": "yes",
+  "LONG_ANSWER": "fixture"
+ },
+ "FIXTURE-006": {
+  "QUESTION": "Is physical activity associated with improved mood scores?",
+  "CONTEXTS": [
+   "Mood scores were significantly better among participants reporting regular physical activity throughout the study.",
+   "Participants were enrolled across several centres and followed according to the protocol."
+  ],
+  "LABELS": [
+   "RESULTS",
+   "METHODS"
+  ],
+  "MESHES": [],
+  "YEAR": "2000",
+  "final_decision": "yes",
+  "LONG_ANSWER": "fixture"
+ },
+ "FIXTURE-007": {
+  "QUESTION": "Does the drug reduce migraine frequency compared with placebo?",
+  "CONTEXTS": [
+   "Migraine frequency did not differ between the treatment group and the placebo group at any measured timepoint.",
+   "Participants were enrolled across several centres and followed according to the protocol."
+  ],
+  "LABELS": [
+   "RESULTS",
+   "METHODS"
+  ],
+  "MESHES": [],
+  "YEAR": "2000",
+  "final_decision": "no",
+  "LONG_ANSWER": "fixture"
+ },
+ "FIXTURE-008": {
+  "QUESTION": "Is the biomarker predictive of recovery time?",
+  "CONTEXTS": [
+   "The biomarker showed no meaningful association with recovery time in either the training or validation samples.",
+   "Participants were enrolled across several centres and followed according to the protocol."
+  ],
+  "LABELS": [
+   "RESULTS",
+   "METHODS"
+  ],
+  "MESHES": [],
+  "YEAR": "2000",
+  "final_decision": "no",
+  "LONG_ANSWER": "fixture"
+ },
+ "FIXTURE-009": {
+  "QUESTION": "Does early mobilisation shorten length of stay?",
+  "CONTEXTS": [
+   "Length of stay was similar for early mobilisation and standard care, with no significant difference observed.",
+   "Participants were enrolled across several centres and followed according to the protocol."
+  ],
+  "LABELS": [
+   "RESULTS",
+   "METHODS"
+  ],
+  "MESHES": [],
+  "YEAR": "2000",
+  "final_decision": "no",
+  "LONG_ANSWER": "fixture"
+ },
+ "FIXTURE-010": {
+  "QUESTION": "Is vitamin level associated with infection rates?",
+  "CONTEXTS": [
+   "No significant association between vitamin level and infection rates was found in the adjusted analysis.",
+   "Participants were enrolled across several centres and followed according to the protocol."
+  ],
+  "LABELS": [
+   "RESULTS",
+   "METHODS"
+  ],
+  "MESHES": [],
+  "YEAR": "2000",
+  "final_decision": "no",
+  "LONG_ANSWER": "fixture"
+ },
+ "FIXTURE-011": {
+  "QUESTION": "Does the therapy improve long-term outcomes?",
+  "CONTEXTS": [
+   "Short-term outcomes improved, but long-term results were mixed across the participating sites and the follow-up was limited.",
+   "Participants were enrolled across several centres and followed according to the protocol."
+  ],
+  "LABELS": [
+   "RESULTS",
+   "METHODS"
+  ],
+  "MESHES": [],
+  "YEAR": "2000",
+  "final_decision": "maybe",
+  "LONG_ANSWER": "fixture"
+ },
+ "FIXTURE-012": {
+  "QUESTION": "Is the screening tool accurate in older adults?",
+  "CONTEXTS": [
+   "Accuracy was high in some subgroups but inconsistent in others, so the overall findings remain inconclusive.",
+   "Participants were enrolled across several centres and followed according to the protocol."
+  ],
+  "LABELS": [
+   "RESULTS",
+   "METHODS"
+  ],
+  "MESHES": [],
+  "YEAR": "2000",
+  "final_decision": "maybe",
+  "LONG_ANSWER": "fixture"
+ }
+}

@@ -1,0 +1,3 @@
+Write ONE plain sentence (at most {max_words} words) that could open a cold email to a {persona}.
+Use only the facts below. Do not invent numbers or claims. No flattery.
+FACTS: {facts_json}

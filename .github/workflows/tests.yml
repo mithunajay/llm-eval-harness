@@ -1,0 +1,19 @@
+name: evals
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements-dev.txt
+      - name: Unit tests
+        run: python -m pytest -q
+      - name: Regression gate (fails the build if quality drops vs baseline)
+        run: >
+          python -m evalkit run
+          --dataset datasets/openers_v1.jsonl --schema datasets/schema_openers.json
+          --prompt prompts/opener_v1.txt --provider mock:good
+          --baseline baselines/openers_v1_good.json

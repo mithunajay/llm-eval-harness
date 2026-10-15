@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "fields": {
+    "id": "string",
+    "persona": "string",
+    "max_words": "integer",
+    "must_mention": "array",
+    "facts": {
+      "type": "object",
+      "required": true,
+      "fields": {"org": "string", "top_repo": "string", "active_repos": "integer", "total_stars": "integer"}
+    },
+    "tags": {"type": "array", "required": false}
+  }
+}

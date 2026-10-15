@@ -1,0 +1,2 @@
+Write an exciting, punchy opener for a {persona} that makes them want to reply. Be bold.
+FACTS: {facts_json}

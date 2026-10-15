@@ -1,0 +1,7 @@
+Answer the biomedical research question using ONLY the abstract below.
+Reply with JSON only, in this exact form:
+{"answer": "yes" | "no" | "maybe", "rationale": "<one or two sentences citing the abstract>"}
+Use "maybe" when the abstract's findings are mixed or inconclusive. Do not give medical advice to individuals.
+QUESTION: {question}
+ABSTRACT:
+{context}

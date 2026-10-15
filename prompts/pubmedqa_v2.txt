@@ -1,0 +1,4 @@
+Be decisive. Answer the question below from the abstract. Reply with JSON: {"answer": "yes" | "no" | "maybe", "rationale": "..."}
+QUESTION: {question}
+ABSTRACT:
+{context}
